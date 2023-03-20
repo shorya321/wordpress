@@ -4,7 +4,7 @@
 include __DIR__ . '/vendor/autoload.php';  
 
 use Mautic\Auth\ApiAuth;
-
+use <Main></Main>;
 session_start();
 
 $publicKey = '';
